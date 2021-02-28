@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on image/video understanding problem, especially the semantic segmentation for road scenes, at Microsoft Research Asia.
+- 🔭 I’m currently persuing my Master degree at Wuhan University. My research interest is focus on semantic segmentation for fine-resolution remotely sensed images, especially for the utilization of efficient attention mechanism in deep learning.
 
 
 

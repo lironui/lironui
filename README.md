@@ -8,7 +8,13 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently pursuing my Master's degree at Wuhan University. My research interest is focused on semantic segmentation for fine-resolution remotely sensed images, especially for the utilization of efficient attention mechanisms in deep learning. Welcome to my [HomePage](https://lironui.github.io/).
+- 🔭 My research interests focus on applications of deep learning methods, especially for image processing, computer vision and renewable energy. Currently, I focus on the following research topics:
+Deep Learning for Semantic Segmentation
+Land Cover and Land Use Classification
+Attention Mechanism in Deep Learning
+Transformer for Computer Vision
+Thick and Thin Cloud Removal
+Offshore Renewable Energy. Welcome to my [HomePage](https://lironui.github.io/).
 
 
 

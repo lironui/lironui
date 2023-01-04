@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center"> <img src="github-readme-stats-chi-three-42.vercel.app" alt="lironui" /> </p>
+<p align="center"> <img src="github-readme-stats-chi-three-42.vercel.app/api?username=lironui&show_icons=true&include_all_commits=true&count_private=true"" alt="lironui" /> </p>
 

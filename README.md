@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 My research interests lie in trans-disciplinary applications of deep learning methods, especially for image processing, computer vision and renewable energy. 
+- 🔭 My research interests lie in trans-disciplinary applications of deep learning methods, especially for remote sensing, computer vision and renewable energy. 
 
 
 

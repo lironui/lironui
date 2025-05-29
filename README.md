@@ -18,7 +18,11 @@ I am glad to be invited as the lead guest editor of **[Advancing UAV-Based Remot
 We warmly welcome your contributions to innovative research and insights into UAV-based remote sensing. Manuscripts addressing cutting-edge advancements, novel methodologies, and diverse applications in this rapidly evolving field are highly encouraged.
 
 <p align="center">
-  <img src="https://github.com/lironui/lironui/blob/main/flyer.png" width="80%" alt="Remote Sensing UAV Special Issue Flyer" />
+  <img src="https://github.com/lironui/lironui/blob/main/banner_rs.png" width="80%" alt="Remote Sensing UAV Special Issue Flyer" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/lironui/lironui/blob/main/banner_d.png" width="80%" alt="Remote Sensing UAV Special Issue Flyer" />
 </p>
 
 | <a href="https://github.com/lironui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lironui&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Rui's github stats" /></a> | <a href="https://github.com/lironui/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lironui&layout=compact&hide_border=true&count_private=true" /></a> |

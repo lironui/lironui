@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 </p>
 
 ### [Remote Sensing UAV Special Issue](https://www.mdpi.com/journal/remotesensing/special_issues/MW3422LNSO)
-I am glad to be invited as the lead guest editor of **[Advancing UAV-Based Remote Sensing: Innovations, Techniques and Applications](https://www.mdpi.com/journal/remotesensing/special_issues/MW3422LNSO)** by the [Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/MW3422LNSO) editorial office.  
+I am glad to be invited as the lead guest editor of **[Advancing UAV-Based Remote Sensing: Innovations, Techniques and Applications](https://www.mdpi.com/journal/remotesensing/special_issues/MW3422LNSO)** by the [Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/MW3422LNSO) and [Drones](https://www.mdpi.com/journal/drones/special_issues/6R2PJR13E3) editorial office.  
 
 We warmly welcome your contributions to innovative research and insights into UAV-based remote sensing. Manuscripts addressing cutting-edge advancements, novel methodologies, and diverse applications in this rapidly evolving field are highly encouraged.
 
